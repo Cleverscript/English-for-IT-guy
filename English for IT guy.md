@@ -1,7 +1,7 @@
 
 ### Слова
 
-| EN | RU| Example |
+| EN | RU| Example use |
 | -------: | :------: | :------ |
 | **pending** | в ожидании | |
 | **stub** | заглушка | |
@@ -184,47 +184,81 @@
 | **trying** | попытка, попытке, пытаюсь | | 
 | **occurs** | происходит, имеет место | | 
 | **no-carrier** | без соединения | | 
-| **broacast** | трансляция | | 
+| **broadcast** | трансляция | | 
 | **unreachable** | недоступный | | 
 | **multicast** | многоадресная трансляция | | 
 | **queue** | очередь | | 
 | **state** | состояние | | 
 | **preferred** | предпочитаемый, предпочтительный | | 
 
-> [!note] Предложения
-**Smelly old crock of shit** - вонючий горшок дерьма
-**Shut up and take my money** - (шат ап а так май мани) - Заткнись и возьми мои 
-деньги
-**To draw more attention** - чтобы привлечь больше внимания
-**Must not be empty** - не должен быть пуст
-**Blocked task** - (блокэд таск) блокирующий таск
-**Status meetings** - (статус мИтинг) совещания по статусу
-**Knowledge base** - (кнолидж бЭйс) - база знаний
-**Response plan** - план реагирования
-**Incendent respons** - реагирование на инцидент
-**Expose the metrics** - Раскройте метрики
-**I need a ...** - мне нужен
-**You have** - у вас есть
-**You can** - вы можете, ты сможешь
-**Will install** - установлю
-**We will** - будем
-**will not be** - не будет
-**you wil must use** - вы должны будете использовать
-**load average** - средняя загрузка
-**held responsible** - нести ответственность
-**which must suit common needs** -  который должен соответствовать общим потребностям
-**If this value is not set no URI will be recognized as a status page** - Если это значение не установлено, URI не будет распознаваться как страница состояния
-**peak of memory allocated by PHP** - пик памяти, выделяемой PHP
-**i want to belive** - хотелось бы верить
-**Proof of work** - доказательство работы
-**Advanced Usage** - расширенное использование
-**It was DNS** - это был DNS
-**My best languages are: Russian and English, so I can answer you in both of them.** - Мои лучшие языки: русский и английский, поэтому я могу ответить вам на обоих.
-**step over** - переступить
-**Now, we will only disable the “msie6” browser** - Теперь мы отключим только браузер «msie6».
-**reached target** - достиг цели
-**common to all** - общий для всех
-**this feature has stopped working** - эта функция перестала работать.
-**An error occurs when trying to save changes**- При попытке сохранить изменения возникает ошибка:
-**network is unreachable** - сеть недоступна
-**keep hope alive** - сохранять надежду
+## Предложения
+
+> **To draw more attention** - чтобы привлечь больше внимания
+> 
+> **Must not be empty** - не должен быть пуст
+> 
+> **Blocked task** - (блокэд таск) блокирующий таск
+> 
+> **Status meetings** - (статус мИтинг) совещания по статусу
+> 
+> **Knowledge base** - (кнолидж бЭйс) - база знаний
+> 
+> **Response plan** - план реагирования
+> 
+> **Incendent respons** - реагирование на инцидент
+> 
+> **Expose the metrics** - Раскройте метрики
+> 
+> **I need a ...** - мне нужен
+> 
+> **You have** - у вас есть
+> 
+> **You can** - вы можете, ты сможешь
+> 
+> **Will install** - установлю
+> 
+> **We will** - будем
+> 
+> **will not be** - не будет
+> 
+> **you wil must use** - вы должны будете использовать
+> 
+> **load average** - средняя загрузка
+> 
+> **held responsible** - нести ответственность
+> 
+> **which must suit common needs** -  который должен соответствовать общим потребностям
+> 
+> **If this value is not set no URI will be recognized as a status page** - Если это значение не установлено, URI не будет распознаваться как страница состояния
+> 
+> **peak of memory allocated by PHP** - пик памяти, выделяемой PHP
+> 
+> **i want to belive** - хотелось бы верить
+> 
+> **Proof of work** - доказательство работы
+> 
+> **Advanced Usage** - расширенное использование
+> 
+> **It was DNS** - это был DNS
+> 
+> **My best languages are: Russian and English, so I can answer you in both of them.** - Мои лучшие языки: русский и английский, поэтому я могу ответить вам на обоих.
+> 
+> **step over** - переступить
+> 
+> **Now, we will only disable the “msie6” browser** - Теперь мы отключим только браузер «msie6».
+> 
+> **reached target** - достиг цели
+> 
+> **common to all** - общий для всех
+> 
+> **this feature has stopped working** - эта функция перестала работать.
+> 
+> **An error occurs when trying to save changes**- При попытке сохранить изменения возникает ошибка:
+> 
+> **network is unreachable** - сеть недоступна
+> 
+> **keep hope alive** - сохранять надежду
+>
+> **Smelly old crock of shit** - вонючий горшок дерьма
+> 
+> **Shut up and take my money** - (шат ап а так май мани) - Заткнись и возьми мои деньги
