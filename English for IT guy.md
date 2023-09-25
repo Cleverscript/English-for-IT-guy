@@ -204,12 +204,17 @@
 | **trace** | след, отслеживать | |
 | **easy** | легкий | |
 | **going** | ходьба, поступь | |
-| **live** | жить, живой | |
+| **live** | жить, живой, наживо | Live Restore Enabled |
 | **violation** | нарушение | |
 | **took** | взял | |
 | **accepted** | принял | |
 | **handler** | обработчик | |
 | **exceeded** | превысел | Maximum call stack size exceeded |
+| **image** | образ | Download an image from a registry |
+| **registry** | реестр | Download an image from a registry |
+| **storage** | хранилище | Storage Driver |
+| **driver** | драйвер | Storage Driver |
+| **swarm** | рой, стая |  |
 
 
 ## Предложения
