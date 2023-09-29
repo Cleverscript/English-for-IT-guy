@@ -45,7 +45,6 @@
 | **way** | путь, способ | |
 | **heavy** | тяжелый | |
 | **must** | должен | |
-| **also** | также | |
 | **so** | так, так что, поэтому | |
 | **how** | как | |
 | **in** | в | |
@@ -215,6 +214,19 @@
 | **storage** | хранилище | Storage Driver |
 | **driver** | драйвер | Storage Driver |
 | **swarm** | рой, стая |  |
+| **detached** | автономный, обособленный | Run in detached mode |
+| **reason** | причина | |
+| **solve** | решать, решение | How to solve the error |
+| **useful** | полезный | Maybe this will also be useful |
+| **also** | тоже, так-же | |
+| **retransmission** | ретрансляция, повторная передача | |
+| **suspected** | предположительно, подозреваемый | |
+| **refused** | отклонено, отказано | Unable to connect to remote host: Connection refused |
+| **slice** | кусочек, срез | Removed slice User Slice of root | 
+| **make** | делать | |
+| **balancer** | балансировщик | |
+| **everse** | обратный | |
+| **see** | смотреть, видеть | Please see the README!!! |
 
 
 ## Предложения
